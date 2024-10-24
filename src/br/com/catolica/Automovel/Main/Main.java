@@ -12,7 +12,7 @@ public class Main {
         carro.ligarMotor();
         moto.ligarMotor();
 
-        moto.acelerar(200);
+        moto.acelerar(240);
         carro.acelerar(160);
 
         moto.frear();
